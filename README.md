@@ -20,14 +20,11 @@
 
 ### Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdantoni&layout=compact&theme=ambient_gradient&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdantoni&layout=compact&theme=material-palenight&show_icons=true&include_all_commits=true&count_private=true)
 
 ---
+### Connect with me &nbsp;&nbsp;[<img align="center" alt="LinkedIn" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linkedin/linkedin-original.svg" />][linkedin]
 
-### Connect with me
-[<img align="left" alt="LinkedIn" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linkedin/linkedin-original.svg" />][linkedin]
-
----
 
 [linkedin]: https://www.linkedin.com/in/priscila-dantoni/
 [python]: https://www.python.org/
@@ -35,4 +32,3 @@
 [cpp]: https://isocpp.org/
 [postgresql]: https://www.w3schools.com/sql/
 [git]: https://git-scm.com/
-
