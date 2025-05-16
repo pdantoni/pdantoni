@@ -19,8 +19,6 @@
 
 <br clear="both"/><br/>
 
-### Stats
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdantoni&layout=compact&theme=material-palenight&show_icons=true&include_all_commits=true&count_private=true)
 
 ---
