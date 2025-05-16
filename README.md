@@ -4,6 +4,9 @@
 ### About Me
 ✨ I consider myself a determined person, always eager to learn and take on new challenges. I enjoy working in teams, sharing ideas, and finding creative solutions.
 
+### Let's connect &nbsp;[<img align="center" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linkedin/linkedin-original.svg" />][linkedin]
+
+
 ---
 
 ### Languages and Tools
@@ -16,15 +19,13 @@
 
 <br clear="both"/><br/>
 
----
-
 ### Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdantoni&layout=compact&theme=material-palenight&show_icons=true&include_all_commits=true&count_private=true)
 
 ---
-### Connect with me &nbsp;&nbsp;[<img align="center" alt="LinkedIn" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linkedin/linkedin-original.svg" />][linkedin]
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=pdantoni.pdantoni)
 
 [linkedin]: https://www.linkedin.com/in/priscila-dantoni/
 [python]: https://www.python.org/
