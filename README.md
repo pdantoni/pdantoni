@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1>👋🏻 Hi! I'm Priscila D'Antoni </h1>
 <h2>Information Systems Engineering student at UTN-FRBA 👩🏼‍💻📚</h2>
 
